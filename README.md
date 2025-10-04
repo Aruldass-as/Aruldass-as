@@ -29,9 +29,9 @@
 </p>
 <h3 align="left">Framework & Libraries</h3>
 <p>
-    <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
+    <!-- <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></img>
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></img>
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></img> -->
 
 <!-- <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img>
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></img>
@@ -39,15 +39,15 @@
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></img>
     <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></img> -->
 </p>
-<h3 align="left">Data Visualization</h3>
+<!-- <h3 align="left">Data Visualization</h3> -->
 <p>
-   <img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%2315A6C4.svg?logo=Tableau&logoColor=white"></img>
+   <!-- <img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%2315A6C4.svg?logo=Tableau&logoColor=white"></img> -->
 </p>
 <h3 align="left">Databases and Cloud Hosting</h3>
 <p>
      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-     <a href="#"><img alt="Azuredevops" src ="https://img.shields.io/badge/Azuredevops-%23000000.svg?logo=Azuredevops&logoColor=white"></a>
+     <!-- <a href="#"><img alt="Azuredevops" src ="https://img.shields.io/badge/Azuredevops-%23000000.svg?logo=Azuredevops&logoColor=white"></a> -->
 
    
 <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
